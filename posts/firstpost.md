@@ -1,7 +1,7 @@
 ---
 title: This is my first post
+date: 2020-04-19T23:54:10.461Z
 summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2015-01-01
 tags:
   - tech
   - environment
